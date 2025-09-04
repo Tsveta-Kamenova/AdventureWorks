@@ -64,7 +64,7 @@ Here is a preview of the final dashboard:
 ## Project Walkthrough
 Watch a quick demo of the dashboard in action:  
 
-
+https://github.com/Tsveta-Kamenova/AdventureWorks/blob/main/AWR_video.mp4
 
 ---
 
@@ -72,8 +72,7 @@ Watch a quick demo of the dashboard in action:
 - Power Query (ETL and data preparation)  
 - Dimensional Modeling (star schema, relationships, keys)  
 - DAX (calculated columns, measures, time intelligence)  
-- Dashboard and Data Storytelling (design best practices)  
-- Power BI Service (publishing, sharing, RLS)  
+- Dashboard and Data Storytelling (design best practices)
 
 ---
 
